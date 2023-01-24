@@ -1,0 +1,13 @@
+{
+    "name": "Tariffs",
+    "alias": "tariffs",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Tariffs\\Providers\\TariffsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
