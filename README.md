@@ -1,9 +1,9 @@
-# blogs-module
-srdev93/blogs-module is a Laravel Module for laravel websites.
+# tariffs-module
+srdev93/tariffs-module is a Laravel Module for laravel websites.
 
 # This module is made with the following package:
 ```php
-composer require nwidart/laravel-modules
+composer require nwidart/laravel-modules 
 ```
 
 # requires
@@ -15,11 +15,11 @@ composer require joshbrw/laravel-module-installer
 # Installation
 To install with Composer:
 ```php
-composer require srdev93/blogs-module
+composer require srdev93/tariffs-module
 ```
 
 then run:
 ```php
-php artisan module:migrate blogs
-php artisan module:enable blogs
+php artisan module:migrate tariffs
+php artisan module:enable tariffs
 ```
